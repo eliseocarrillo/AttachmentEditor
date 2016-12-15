@@ -1,0 +1,60 @@
+#titleAttachEditor {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 0px;
+    box-sizing: border-box;
+    font-size: 12px
+}
+
+#infoAttachEditor {
+    width: 100%;
+    background-color: #518DCA;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 0px;
+    font-size: 12px;
+}
+
+#attachEditor{
+    width: 100%;
+    background-color: #518DCA;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 0px;
+    font-size: 12px;
+}
+
+/*input[type=button]:hover {
+    background-color: rgba(81,141,202,0.3);
+}*/
+
+b, #attachEditor{
+    font-size: 12px;
+}
+
+span, #attachEditor{
+    font-size: 12px;
+}
+
+form, #attachEditor{
+    line-height: 1.5;
+}
+
+input, #attachEditor{
+    font-size: 11px;
+}
+
+#principalAttachEditor {
+    border-radius: 0px;
+    background-color: #f2f2f2;
+    padding: 40px;
+    width:100%;
+    height:100%
+}
